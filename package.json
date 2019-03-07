@@ -1,0 +1,9 @@
+{
+  "name": "mysqlApp",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.10.2",
+    "nodemailer": "^5.1.1"
+  }
+}
